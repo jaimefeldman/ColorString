@@ -57,6 +57,6 @@ print("texto de color ".blanco)
 ---
 ## License
 
-Rainbow is released under the MIT license. See LICENSE for details.
+`ColorString`  está publicado bajo la licencia MIT. Vea la LICENCIA para más detalles.
 
 
