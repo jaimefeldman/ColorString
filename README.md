@@ -1,4 +1,4 @@
-![ColorString](https://user-images.githubusercontent.com/2141335/138482151-dfe3e204-2c91-478e-af66-446b7369b6e2.png)
+![ColorString](https://user-images.githubusercontent.com/2141335/138494879-b3077381-5591-4dc6-89ae-7d2c2bf7cdbc.png)
 
 `ColorString` Agrega color a las cadenas de texto para salidas por consola usando Swift. 
 
