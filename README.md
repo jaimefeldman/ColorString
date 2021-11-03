@@ -13,7 +13,7 @@ import PackageDescription
 let package = Package(
     name: "YourAwesomeSoftware",
     dependencies: [
-        .package(url: "https://github.com/jaimefeldman/ColorString.git, from: "1.0.0")
+        .package(url: "https://github.com/jaimefeldman/ColorString.git", from: "1.0.0")
     ],
     targets: [
         .target(
