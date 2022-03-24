@@ -29,7 +29,7 @@ $ swift build
 ```
 Esto descargará el paquete con sus dependencias, para posteriormente construirlo.
 
-Despues desde laterminal puedes ejecutar el paquete 
+Despues desde el terminal es posible ejecutarlo.
 
 ```temrinal
 $ swift run
