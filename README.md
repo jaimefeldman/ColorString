@@ -27,7 +27,7 @@ Luego si estas trabajando con la terminal se debe ejecutar:
 ```terminal
 $ swift build
 ```
-Esto descargará las dependencias y el paquete y luego lo constuirá.
+Esto descargará el paquete con sus dependencias, para posteriormente construirlo.
 
 Despues desde laterminal puedes ejecutar el paquete 
 
